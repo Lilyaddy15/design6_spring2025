@@ -1,2 +1,2 @@
-# design6_spring2025
-repository for engineering design 6 assignments
+# Lily Stone
+## CPE 322: Engineering Design VI
