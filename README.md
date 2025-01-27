@@ -32,3 +32,8 @@ _Involvements on Campus_
 
 [Check out my feature in the Stevens Indicator Magazine!](https://www.stevens.edu/indicator/fall-2024/seen-and-heard)
 ![Image from the feature](https://www.stevens.edu/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fmviowpldu823%2F78bB1t3zYJW6sP4Xzr2tUF%2Fcab945b827a1def3742c04c722f72f3c%2FLEAD_PHOTO_FOR_PHIL_STEVENS_INSTITUTE_0P6A6341-crop.jpg%3Fw%3D1800%26h%3D1013%26f%3Dfaces%26q%3D80%26fit%3Dfill&w=2400&q=80)
+
+---
+### Fun Things
+Over winter break I was in Avon, Colorado. I went skiing, snowmobiling, and snow tubing.
+![Image from me snow mobiling over break](IMG_5257.JPG)
