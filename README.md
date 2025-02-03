@@ -1,6 +1,6 @@
 # Lily Stone
 ## CPE 322: Engineering Design VI
-
+[Group Site](https://sites.google.com/stevens.edu/thebestdesign6group/home)
 ### About Me
 **Student at Stevens Institute of Technology**
 >Computer Engineering Undergraduate
