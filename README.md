@@ -26,7 +26,7 @@ _Involvements on Campus_
 - React Native
 - etc.
 
-`cout<<"Welcome to my GitHub Repo for CPE 322 << endl;`
+`cout<<"Welcome to my GitHub Repo for CPE 322" << endl;`
 
 ---
 
