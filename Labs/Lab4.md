@@ -55,7 +55,11 @@ Then I updated the database and created a superuser
 
 <img width="541" alt="Screenshot 2025-04-15 at 5 36 52 PM" src="https://github.com/user-attachments/assets/084c2383-a583-49f9-a2bc-d5edcff33d01" />
 
-After running the server and posting the necessary values to the different lists, I opened the app.
+After running the server and posting the necessary values to the different lists, ran ` controller.py `.
+
+<img width="426" alt="Screenshot 2025-04-15 at 7 39 50 PM" src="https://github.com/user-attachments/assets/9498fe63-a5f6-4971-a94b-1fbfb83fb8b6" />
+
+Then, I opened the app.
 
 <img width="1327" alt="Screenshot 2025-04-15 at 5 48 04 PM" src="https://github.com/user-attachments/assets/b0211a3e-98f9-4a9a-bbdd-915e38028061" />
 
