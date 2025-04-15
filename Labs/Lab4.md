@@ -60,3 +60,10 @@ After running the server and posting the necessary values to the different lists
 <img width="1327" alt="Screenshot 2025-04-15 at 5 48 04 PM" src="https://github.com/user-attachments/assets/b0211a3e-98f9-4a9a-bbdd-915e38028061" />
 
 Again, please note that the map is not working due to the issue with not being able to get a proper API key.
+
+### Running Flask
+
+First, I installed flask using ` pip3 install flask ` and then I was able to run the server with ` python3 hello_world.py `
+
+<img width="1726" alt="Screenshot 2025-04-15 at 5 53 58 PM" src="https://github.com/user-attachments/assets/405be6f7-b75e-4a3a-b8dd-640a19696161" />
+
