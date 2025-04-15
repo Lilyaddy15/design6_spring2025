@@ -11,6 +11,7 @@ I used the following commands shown to Django and Django REST Framework
 
 ### Start Django Project "stevens"
 As shown below, I used commands in the terminal to start the Django project called "stevens"
+
 <img width="510" alt="Screenshot 2025-04-15 at 3 46 58 PM" src="https://github.com/user-attachments/assets/342d7b2f-a156-459e-aeb2-86bc1fa54ad6" />
 
 I then adjusted the settings.py file as shown below
@@ -36,3 +37,26 @@ I then ran the server, and added in the data on the admin site. Then I saved it 
 Please note that the map is not correctly showing up. When I attempted to get an API key for Google Maps, it would not accept my credit card information and would not let me log in. 
 
 ### Start Django REST Project
+Using the commands shown below, I started a Django REST Project called mycpu
+
+<img width="469" alt="Screenshot 2025-04-15 at 5 19 25 PM" src="https://github.com/user-attachments/assets/9ea220a6-c014-431e-b2ab-75a11d66458a" />
+
+As shown, I then started the app, and adjusted the settings.py file
+
+<img width="500" alt="Screenshot 2025-04-15 at 5 23 47 PM" src="https://github.com/user-attachments/assets/b9364aed-ee3b-4a71-890d-7d076a940142" />
+
+Then I copied necessary files
+
+<img width="551" alt="Screenshot 2025-04-15 at 5 25 35 PM" src="https://github.com/user-attachments/assets/b23b5ab1-424c-4f6d-a3cd-1d13f013ceb3" />
+<img width="520" alt="Screenshot 2025-04-15 at 5 28 19 PM" src="https://github.com/user-attachments/assets/c47ec903-ca38-4a57-96ac-dbf603619589" />
+<img width="540" alt="Screenshot 2025-04-15 at 5 32 08 PM" src="https://github.com/user-attachments/assets/62b46ba5-6865-4a47-b2c0-026cd4ae202b" />
+
+Then I updated the database and created a superuser
+
+<img width="541" alt="Screenshot 2025-04-15 at 5 36 52 PM" src="https://github.com/user-attachments/assets/084c2383-a583-49f9-a2bc-d5edcff33d01" />
+
+After running the server and posting the necessary values to the different lists, I opened the app.
+
+<img width="1327" alt="Screenshot 2025-04-15 at 5 48 04 PM" src="https://github.com/user-attachments/assets/b0211a3e-98f9-4a9a-bbdd-915e38028061" />
+
+Again, please note that the map is not working due to the issue with not being able to get a proper API key.
