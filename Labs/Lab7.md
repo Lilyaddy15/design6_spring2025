@@ -6,8 +6,6 @@
 I logged into ThingSpeak with my already existing MathWorks account. Then I created the channel with the two fields. 
 <img width="644" alt="Screenshot 2025-04-16 at 6 42 20 PM" src="https://github.com/user-attachments/assets/e4de726a-78ab-4f6c-ad89-c82dd6611fd9" />
 
-<img width="684" alt="Screenshot 2025-04-16 at 6 43 38 PM" src="https://github.com/user-attachments/assets/d3b79156-41e7-4000-850e-d5f3557f79a6" />
-
 <img width="565" alt="Screenshot 2025-04-16 at 6 45 40 PM" src="https://github.com/user-attachments/assets/06eda80e-1705-4565-903d-42501f33b9d7" />
 
 <img width="536" alt="Screenshot 2025-04-16 at 6 46 22 PM" src="https://github.com/user-attachments/assets/e7435c90-0c23-4d4e-bc7f-2c9d0d220e54" />
