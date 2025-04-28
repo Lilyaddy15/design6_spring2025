@@ -26,7 +26,7 @@ $ python3 plt_cv2.py
 
 Below are all of my final plots.
 
-<img width="641" alt="Screenshot 2025-04-17 at 4 39 08 PM" src="https://github.com/user-attachments/assets/42630c97-3774-4fac-8cd8-f4e8f789ec9c" />
+<img width="644" alt="Screenshot 2025-04-28 at 12 03 45 PM" src="https://github.com/user-attachments/assets/0dfda366-b88b-487c-ab70-87810ae3cc95" />
 <img width="640" alt="Screenshot 2025-04-17 at 4 39 33 PM" src="https://github.com/user-attachments/assets/9c11ff1a-a144-4d97-9c98-64f73d87f357" />
 <img width="640" alt="Screenshot 2025-04-17 at 4 39 51 PM" src="https://github.com/user-attachments/assets/8fcce1af-e50e-4769-9ed2-b07229fa6651" />
 <img width="641" alt="Screenshot 2025-04-17 at 4 40 08 PM" src="https://github.com/user-attachments/assets/94c237a1-7147-4977-864a-22ba9b67b3c4" />
